@@ -2,7 +2,7 @@
 
 link to live site https://davidjackson323.github.io/bstrap/
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <title>Bootstrap Example</title>
